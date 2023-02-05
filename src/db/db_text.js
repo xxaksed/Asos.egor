@@ -460,3 +460,5 @@ const db = [
     "reviews": 38
   }
 ]
+
+export default db

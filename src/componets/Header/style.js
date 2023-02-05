@@ -24,7 +24,7 @@ align-items: center;
 font-size: 20px;
 justify-content: space-around;
 &:hover{
-    background-color: #525050
+    background-color: #525050cd
 }
 `
 export const MenStyled = styled.div`

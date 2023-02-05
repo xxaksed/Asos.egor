@@ -1,13 +1,15 @@
 
-import styled from 'styled-components';
 import Header from './componets/Header/Header';
-
+import MainPage from './componets/mainPage/mainPage';
 
 function App() {
   return (
-    <Header>
-      sadasdassxs
-    </Header>
+    <div>
+      <Header>
+      </Header>
+      <MainPage>
+      </MainPage>
+  </div>
         
   );
 }
